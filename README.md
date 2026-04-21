@@ -8,7 +8,7 @@
 
 ## 🔗 Let's Connect! &nbsp; <a href="https://www.linkedin.com/in/nirajankc"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" height="25" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nirajanck"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="25" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:nirajankc001@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" /></a>
 
-## 🌐 Portfolio Website  <a href="https://nirajankc.netlify.app/"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Portfolio" height="30"/>
+## 🌐 <a href="https://nirajankc.netlify.app/">Portfolio Website <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Portfolio" height="30"/></a>
 
 ## 🛠️ Tech Stack
 <div align="left">
